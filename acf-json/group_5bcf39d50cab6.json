@@ -1,0 +1,25 @@
+{
+    "key": "group_5bcf39d50cab6",
+    "title": "Location Fields (copy)",
+    "fields": false,
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "locations"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "permalink"
+    ],
+    "active": 1,
+    "description": "",
+    "modified": 1540307413
+}

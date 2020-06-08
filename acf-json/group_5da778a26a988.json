@@ -1,0 +1,82 @@
+{
+    "key": "group_5da778a26a988",
+    "title": "Press Fields (copy)",
+    "fields": [
+        {
+            "key": "field_5da778a2b23f4",
+            "label": "Blog Image",
+            "name": "blog_image",
+            "type": "image_crop",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "force_crop": "no",
+            "crop_type": "hard",
+            "preview_size": "medium",
+            "save_format": "id",
+            "save_in_media_library": "yes",
+            "target_size": "thumbnail",
+            "library": "all",
+            "retina_mode": "no"
+        },
+        {
+            "key": "field_5da778a2b24b4",
+            "label": "Blog Excerpt",
+            "name": "blog_excerpt",
+            "type": "textarea",
+            "instructions": "This is a required field.\r\nThis snippet will appear in the blogs section of the homepage.",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": "",
+            "new_lines": ""
+        },
+        {
+            "key": "field_5da778a2b2566",
+            "label": "Content",
+            "name": "",
+            "type": "message",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "new_lines": "wpautop",
+            "esc_html": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "press"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 0,
+    "description": "",
+    "modified": 1571256492
+}

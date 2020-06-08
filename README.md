@@ -1,1 +1,1 @@
-# COPE_WP_Theme
+# Wordpress Theme for https://www.copepsychiatry.com/

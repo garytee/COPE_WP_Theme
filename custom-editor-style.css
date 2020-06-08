@@ -1,0 +1,60 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  /*color: #BADA55;*/
+/*  font-weight: 700;
+  margin: 56px 0 28px;*/
+  font-family: "proxima-nova",sans-serif;
+}
+
+h1{
+  font-size: 34px;
+  font-weight: normal;
+  line-height: 40px;
+  /*color: #00a8e8 !important;*/
+  color: #3d4c9a !important;
+}
+
+h2{
+  font-size: 30px;
+color: #3d4c9a;
+font-weight: 100;
+}
+
+h3{
+  color: #3d4c9a;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+h4{
+  font-size: 20px;
+color: #3d4c9a;
+}
+
+h5{
+    font-size: 15px;
+color: #3d4c9a;
+}
+
+h6{
+font-size: 15px;
+color: #3d4c9a;
+padding: 0;
+margin: 0;
+}
+
+.bluetopborder{
+  border-top: 1px solid #00a8e8;
+}
+
+
+
+.custom_button{
+  background: blue !important;
+  color: blue !important;
+}
